@@ -3,7 +3,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'b4tudevs'
-desproction 'Belirli Görüntü Ayarlarını Engelliyor'
+description 'Belirli Görüntü Ayarlarını Engelliyor'
 
 ui_page "ui/index.html"
 
